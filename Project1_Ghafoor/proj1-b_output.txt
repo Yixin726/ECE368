@@ -1,0 +1,5 @@
+Average wait 0: 2.798500
+Average wait 1: 655.651220
+Average load balancing factor: 0.199715
+Average queue length: 8015.881468
+Average utilization: 0.626824

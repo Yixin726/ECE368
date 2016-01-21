@@ -1,0 +1,5 @@
+Avg wait time for 0: 16.625000
+Avg wait time for 1: 23.000000
+Avg Queue Length is: 4.694444
+Avg CPU Utilization is: 19.722222
+Avg Load Balancing Factor is: 2.000000
